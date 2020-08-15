@@ -40,7 +40,7 @@
    
 ## REFERENCES
 [Statistical Significance](Statistical Significance in A/B Testing – a Complete Guide)
-[A/B Test with Python](A/B test with Python) 
+[A/B Test with Python] (A/B test with Python) 
 [Refresher on A/B testing](A Refresher on A/B Testing)
 [A/B Testing Statistics](A/B Testing Statistics: An Easy-to-Understand Guide)
 [Sequential A?B workflow and advantages over Classic Experiment](Sequential A/B Testing: Workflow and Advantages over Classic Experiments)
