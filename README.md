@@ -39,8 +39,8 @@
    
    
 ## REFERENCES
-[Statistical Significance in A/B Testing – a Complete Guide](http://blog.analytics-toolkit.com/2017/statistical-significance-ab-testing-complete-guide/)
-[A/B test with Python](https://www.kaggle.com/tammyrotem/ab-tests-with-python/notebook)
-[A Refresher on A/B Testing](https://hbr.org/2017/06/a-refresher-on-ab-testing)
-[A/B Testing Statistics: An Easy-to-Understand Guide](https://cxl.com/blog/ab-testing-statistics/)
-[Sequential A/B Testing: Workflow and Advantages over Classic Experiments](https://splitmetrics.com/blog/sequential-a-b-testing/)
+* [Statistical Significance in A/B Testing – a Complete Guide](http://blog.analytics-toolkit.com/2017/statistical-significance-ab-testing-complete-guide/)
+* [A/B test with Python](https://www.kaggle.com/tammyrotem/ab-tests-with-python/notebook)
+* [A Refresher on A/B Testing](https://hbr.org/2017/06/a-refresher-on-ab-testing)
+* [A/B Testing Statistics: An Easy-to-Understand Guide](https://cxl.com/blog/ab-testing-statistics/)
+* [Sequential A/B Testing: Workflow and Advantages over Classic Experiments](https://splitmetrics.com/blog/sequential-a-b-testing/)
